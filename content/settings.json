@@ -1,25 +1,25 @@
 {
-  "store_id": 43872,
-  "name": "felly",
   "domain": "felly.netlify.app",
-  "short_name": "felly",
-  "description": "felly",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Felly Jeans",
+  "short_name": "felly",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/logo-felly-jeans2.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo-felly-jeans2.png",
+  "store_id": 43872,
+  "description": "felly",
+  "large_icon": "/img/uploads/logo-felly.png"
 }
