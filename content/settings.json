@@ -7,9 +7,9 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/logo-felly.png",
   "name": "Felly Jeans",
-  "short_name": "felly",
+  "short_name": "Felly Jeans",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -20,6 +20,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/logo-felly-jeans2.png",
   "store_id": 43872,
-  "description": "felly",
+  "description": "\"Somos uma empresa, com sede em Goiânia. Produzimos Roupas infanto juvenil ,menino e menina nas idades 1 ao 16 anos. Somos comprometidos com a qualidade e padronização das peças. Iniciamos nossa atividade em 2011, tendo um produto de valor agregado. Somos especialistas neste segmento. Venha conhecer nossos produtos\".",
   "large_icon": "/img/uploads/logo-felly.png"
 }
