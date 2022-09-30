@@ -1,5 +1,5 @@
 {
-  "css": " <div class=\"box\">\n          <div>One</div>\n          <div>Two</div>\n          <div>Three\n              <br>has\n              <br>extra\n              <br>text\n          </div>\n        </div>\n      ",
+  "css": "\n      ",
   "html_head": "",
   "html_body": ""
 }
