@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ab4b59b13777f97b990dbf58789b6c78.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.947455c2ad84ed8f043b7c869921d2f6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.1c249df4e791de3904927418502876bc.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.79c6abcf6fc84bef35ab9b03f060dd12.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.bf711d30e583684bdff7389dac1aaed8.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Felly Jeans",
+  "short_name": "Felly Jeans",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "\"Somos uma empresa, com sede em Goiânia. Produzimos Roupas infanto juvenil ,menino e menina nas idades 1 ao 16 anos. Somos comprometidos com a qualidade e padronização das peças. Iniciamos nossa atividade em 2011, tendo um produto de valor agregado. Somos especialistas neste segmento. Venha conhecer nossos produtos\".",
+  "background_color": "#ffffff",
+  "theme_color": "#27221b"
+}
